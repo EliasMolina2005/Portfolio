@@ -1,0 +1,46 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+.proyectos {
+  padding: 2rem;
+}
+
+.proyecto {
+  background: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.proyecto h3 {
+  margin-top: 0;
+}
+
+.proyecto a {
+  text-decoration: none;
+  color: white;
+  background: #007bff;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #222;
+  color: white;
+}
